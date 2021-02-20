@@ -18,11 +18,6 @@ function changevolume(amount) {
     audioobject.volume = amount;
 }
 
-
-
-
-
-
 function continuar() {
     var contenerUno = document.getElementById('contenedor-1');
 
@@ -43,8 +38,8 @@ function playPause() {
         audio2.currentTime = 0;
 }
 function pauseMusic() {
-    audio2.pause();
-    audio2.currentTime = 0;
+    audio.pause();
+    audio.currentTime = 0;
 }
 
 /* preload video */

@@ -695,7 +695,7 @@ box-shadow: 0px 1px 10px 1px black;
 /* section-2 / video */
 
 #section-2 {
-    background: url(img/homero-bg-fondo.jpg);
+    background: url(img/bg-2.jpg);
 
 }
 #video{
@@ -706,7 +706,7 @@ box-shadow: 0px 1px 10px 1px black;
     display: none;
 } 
 #button-video-2{
-    margin-top: 150px !important;
+    margin-top: 300px !important;
 } 
 @media (max-width: 991px) {
     #video {
@@ -715,10 +715,10 @@ box-shadow: 0px 1px 10px 1px black;
     } 
 }
 @media (max-width: 800px) {
-    #section-2 {
-        background: url(img/fondo-verde.jpg);
+    /*#section-2 {
+        background: url(img/fondo.jpg);
     
-    }
+    }*/
     #button-video-1{
         display: block;
     } 
