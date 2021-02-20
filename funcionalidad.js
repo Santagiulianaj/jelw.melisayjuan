@@ -1,4 +1,4 @@
-window.onload = function(){
+window.onload = function cargartodo(){
     var contenedor = document.getElementById('contenedor_carga');
 
     contenedor.style.visibility = 'hidden';
