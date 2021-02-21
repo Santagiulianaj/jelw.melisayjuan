@@ -72,7 +72,7 @@ html, body {
     #button-intro {
         width: 20%;
         font-size: 80%;
-        top: 67%;
+        top: 68%;
     }
     #c-img {
         height: 80vh;
@@ -83,7 +83,7 @@ html, body {
     #button-intro {
         width: 23%;
         font-size: 75%;
-        top: 67%;
+        top: 68%;
     }
 }
 @media screen and (min-height: 1550px){
