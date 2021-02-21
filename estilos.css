@@ -70,9 +70,9 @@ html, body {
 }
 @media screen and (max-width: 500px){
     #button-intro {
-        width: 19%;
+        width: 20%;
         font-size: 80%;
-        top: 68%;
+        top: 72%;
     }
     #c-img {
         height: 80vh;
@@ -81,9 +81,9 @@ html, body {
 }
 @media screen and (max-width: 440px){
     #button-intro {
-        width: 22%;
+        width: 23%;
         font-size: 75%;
-        top: 68%;
+        top: 72%;
     }
 }
 @media screen and (min-height: 1550px){
