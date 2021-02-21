@@ -63,7 +63,7 @@ html, body {
 
 #button-intro {
     position: absolute;
-    top: 75%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -72,7 +72,7 @@ html, body {
     #button-intro {
         width: 20%;
         font-size: 80%;
-        top: 72%;
+        top: 67%;
     }
     #c-img {
         height: 80vh;
@@ -83,7 +83,7 @@ html, body {
     #button-intro {
         width: 23%;
         font-size: 75%;
-        top: 72%;
+        top: 67%;
     }
 }
 @media screen and (min-height: 1550px){
