@@ -13,14 +13,6 @@ var audio = new Audio('cancion.mp3');
 audio.volume = '0.8';
 var audio2 = new Audio('cancion2.mp3');
 
-window.onunload = function musicoff() {
-    audio2.pause();
-    audio2.currentTime = 0;
-    audio.pause();
-    audio.currentTime = 0;
-}
-
-
 function changevolume(amount) {
     var audioobject = audio;
     audioobject.volume = amount;
